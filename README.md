@@ -63,10 +63,4 @@ The program runs in a loop, allowing multiple operations until the user decides 
 
 Feel free to fork this repository, submit pull requests, or open issues for enhancements and bug fixes. Contributions and feedback are greatly appreciated!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Your Name](https://github.com/yourusername)
